@@ -53,6 +53,6 @@
         android:layout_below="@+id/editText2"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="67dp"
-        android:onClick=""/>
+        android:onClick="gotomember"/>
 
 </RelativeLayout>
